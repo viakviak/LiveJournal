@@ -1,0 +1,2 @@
+# LiveJournal
+LiveJournal database
